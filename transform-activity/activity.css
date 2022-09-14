@@ -1,3 +1,4 @@
 main {
-
+    transform: skew(0deg, 175deg);
+    width: auto;
 }
